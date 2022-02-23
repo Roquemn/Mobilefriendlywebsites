@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-gradient{
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(#25C5DD,#0D2227 50%);
+
+}
+
