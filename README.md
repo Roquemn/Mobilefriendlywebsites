@@ -1,2 +1,2 @@
-# Mobilefrienlywebsites
+# Mobilefriendlywebsites
 Mobile Friendly Web
